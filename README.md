@@ -199,6 +199,6 @@ This project was initiated in order to better understand the data of Cumulus Fin
 
 [2]	L.Ryan “Visual Data Storytelling with Tableau”, First Edition, July 2018.
 
-[3]	Tableau: https://www.tableau.com/learn
+[3]	Tableau: https://public.tableau.com/app/profile/anshika4020/viz/FinancialComplaintsDashboard_16564970063090/OverView?publish=yes
 
 [4]	https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html
